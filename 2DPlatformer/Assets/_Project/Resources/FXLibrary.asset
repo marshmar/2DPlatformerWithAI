@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac62e107e0e11cc4796416a78862bba1, type: 3}
+  m_Name: FXLibrary
+  m_EditorClassIdentifier: 
+  slash: {fileID: 5168326364690966726, guid: d21a5c375d4975d459d2f6988b79427b, type: 3}
+  hitSpark: {fileID: 2559439762583737535, guid: 57074cbe16e4c8d4e8d7568d8f17f7ec, type: 3}
+  shotImpact: {fileID: 6498564368612139223, guid: fa9e000d60e37544180f6ed45509567e, type: 3}
+  explosion: {fileID: 4346140421670435750, guid: 1c9f89f0d1806fd4f9e9ad11c0fea6c7, type: 3}

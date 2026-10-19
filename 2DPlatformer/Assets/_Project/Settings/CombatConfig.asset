@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e886e8386f26be94599e259b6271046f, type: 3}
+  m_Name: CombatConfig
+  m_EditorClassIdentifier: 
+  <AttackFps>k__BackingField: 18
+  <ActiveFrames>k__BackingField:
+  - {x: 2, y: 4}
+  - {x: 3, y: 5}
+  - {x: 3, y: 6}
+  <Damage>k__BackingField: 010000000100000002000000
+  <InputBuffer>k__BackingField: 0.18
+  <HitboxOffset>k__BackingField: {x: 0.95, y: 1.05}
+  <HitboxSize>k__BackingField: {x: 1.6, y: 1.5}
+  <SnapRange>k__BackingField: 3.2
+  <SnapSpeed>k__BackingField: 9
+  <AirAttackMaxFall>k__BackingField: 2.5
+  <HitstopNormal>k__BackingField: 0.055
+  <HitstopFinisher>k__BackingField: 0.1
+  <ShakeNormal>k__BackingField: 0.25
+  <ShakeFinisher>k__BackingField: 0.45
+  <Knockback>k__BackingField: 7
+  <PlayerMaxHealth>k__BackingField: 5
+  <InvincibleTime>k__BackingField: 1
+  <HurtStunTime>k__BackingField: 0.3
+  <HurtKnockback>k__BackingField: {x: 6, y: 7}
+  <ExecutionDashSpeed>k__BackingField: 34
+  <ExecutionSlowScale>k__BackingField: 0.15
+  <ExecutionBounce>k__BackingField: 12

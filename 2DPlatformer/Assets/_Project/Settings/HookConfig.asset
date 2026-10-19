@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af9775c642c77594e99ccb4c4f94e79e, type: 3}
+  m_Name: HookConfig
+  m_EditorClassIdentifier: 
+  <Range>k__BackingField: 11
+  <TipSpeed>k__BackingField: 75
+  <RetractSpeed>k__BackingField: 90
+  <AssistAngle>k__BackingField: 12
+  <AssistStep>k__BackingField: 3
+  <EnemyAssistBonusAngle>k__BackingField: 8
+  <InputBuffer>k__BackingField: 0.12
+  <MinRopeLength>k__BackingField: 1.5
+  <SwingAcceleration>k__BackingField: 22
+  <MaxSwingSpeed>k__BackingField: 20
+  <ReleaseBoost>k__BackingField: 1.12
+  <JumpReleaseVelocity>k__BackingField: 12
+  <ReelSpeed>k__BackingField: 26
+  <ReelArriveDistance>k__BackingField: 1.2

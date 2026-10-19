@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bed0ea2e69d305e4b98f177fae91e10b, type: 3}
+  m_Name: LevelCatalog
+  m_EditorClassIdentifier: 
+  levels:
+  - scene: Level01
+    code: SECTOR 01
+    title: "\uB124\uC628 \uC625\uC0C1"
+    chips: 5
+  - scene: Level02
+    code: SECTOR 02
+    title: "\uD558\uCE35 \uBC30\uAD00 \uC9C0\uAD6C"
+    chips: 5
+  - scene: Level03
+    code: SECTOR 03
+    title: "\uD0C0\uC6CC \uC678\uBCBD"
+    chips: 5
+  - scene: Level04
+    code: SECTOR 04
+    title: "\uCF54\uC5B4 \uCCA8\uD0D1"
+    chips: 7

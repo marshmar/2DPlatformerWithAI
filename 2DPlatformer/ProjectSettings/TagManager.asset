@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Hookable
+  - Player
+  - Enemy
+  - Hazard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG_Far
+    uniqueID: 920355668
+    locked: 0
+  - name: BG_Near
+    uniqueID: 1105674840
+    locked: 0
+  - name: Tile_Back
+    uniqueID: 1892423546
+    locked: 0
+  - name: Props
+    uniqueID: 174565547
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 2094871675
+    locked: 0
+  - name: Player
+    uniqueID: 1897413775
+    locked: 0
+  - name: FX
+    uniqueID: 940832868
+    locked: 0
+  - name: Tile_Front
+    uniqueID: 260835279
+    locked: 0
+  - name: UI
+    uniqueID: 678133448
+    locked: 0
+  m_RenderingLayers:
+  - Default
